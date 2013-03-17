@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+COL	everything.c	22;"	d	file:
+LIMIT	everything.c	23;"	d	file:
+N_LENGTH	everything.c	24;"	d	file:
+ROW	everything.c	21;"	d	file:
+b	everything.c	/^	unsigned char r,g,b;$/;"	m	struct:__anon1	file:
+g	everything.c	/^	unsigned char r,g,b;$/;"	m	struct:__anon1	file:
+inc_colour	everything.c	/^int inc_colour(pix *p)$/;"	f
+main	everything.c	/^int main(void)$/;"	f
+next_name	everything.c	/^void next_name(char* str)$/;"	f
+output	everything.c	/^void output(pix ar[][COL])$/;"	f
+output_img	everything.c	/^void output_img(pix ar[][COL], char* fname)$/;"	f
+pix	everything.c	/^} pix;$/;"	t	typeref:struct:__anon1	file:
+r	everything.c	/^	unsigned char r,g,b;$/;"	m	struct:__anon1	file:
+update_image	everything.c	/^void update_image(pix ar[][COL])$/;"	f
