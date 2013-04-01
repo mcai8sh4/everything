@@ -9,5 +9,4 @@ It's purely a POC as it would be impossible to run this program. But the theory 
 
 Compile with gcc (or similar) it has been designed to compile using only standard libs.
 
-stevehowarth@gmail.com
-
+Disclaimer - I hold no responsibility for any badness that may result from this code - use your common sense!!
